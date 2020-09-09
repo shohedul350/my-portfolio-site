@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Shohedul",
+    "occupation": " Full Stack  web application Developer",
+    "description": "(MERN Stack)",
+    "image": "shohedul.JPG",
+    "bio": "My name is Shohedul, I'm a Full Stack application Developer. Currently I'm learning state.I am a person who has a remarkable proven ability to work under pressure, to plan and prioritize work. I am a capable and adaptable person who is looking forward to learn new working skills and methods in order to gain experience that can be used in a career in the near and distant future.",
+    "contactmessage": "Get in touch with me to receive further details anything else.",
+    "email": "shohedul350@gmail.com",
+    "phone": "+8801303029065",
+    "address": {
+      "street": "Osmanpur,Pirganj,Rangpur",
+      "city": "Dhaka",
+      "state": "Bangladesh",
+      "zip": ""
+    },
+    "website": "https://learncodejs.blogspot.com/",
+    "resumedownload": "https://gitconnected.com/shohedul350/resume",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shohedul350",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shohedul350/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shohedul350/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/shohedul350",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Jhenaidah Polytechnic Institute",
+        "degree": "Diploms in Computer Science",
+        "graduated": "july 2020",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Nerdevs",
+        "degree": "web application development using node.js",
+        "graduated": "Running",
+        "description": ""
+      },
+      {
+        "school": "Rural Reconstruction Foundation",
+        "degree": "Web Site Design and Development",
+        "graduated": "september 2018",
+        "description": "Ref.No:RRF_BB-WDD-B3-014.Certificate No:6970"
+      }
+    ],
+
+
+    "work": [
+      {
+        "company": "",
+        "title": "I have Zero on the job experience but i have experience in MERN stack project base work",
+        "years": "",
+        "description": ""
+      }
+     
+    ],
+    "skills": [
+      {
+        "name": "node.js",
+        "level": "40%"
+      },
+      {
+        "name": "Express.js",
+        "level": "40%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "40%"
+      },
+      {
+        "name": "React.js",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      }
+    
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack E-commerce",
+        "category": "E-commerce demo built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "e-commerce.png",
+        "url": "https://bestchoice-online-shop.herokuapp.com/"
+      },
+      {
+        "title": "Full Stack Node Blog",
+        "category": "Node-blog  built with  (MongoDB, ExpressJS, ejs, NodeJS)",
+        "image": "node-blog.png",
+        "url": "https://node-bloger.herokuapp.com/"
+      },
+      {
+        "title": "MERN Stack Contact note",
+        "category": "built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "contactNode.png",
+        "url": "https://contact-note.herokuapp.com/"
+      },
+      {
+        "title": "MERN Stack Website note",
+        "category": "built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "website-note.png",
+        "url": "https://website-note.herokuapp.com/"
+      },
+      {
+        "title": "MERN Stack realtime Chat app",
+        "category": "built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS,socket.io)",
+        "image": "chat-app.png",
+        "url": "https://chatme-live.herokuapp.com"
+      },
+      {
+        "title": "React Corona tracker",
+        "category": "built with Recat and using api",
+        "image": "corona-tracker.png",
+        "url": "https://corona-tracke.netlify.app/"
+      }
+      ,
+      {
+        "title": "contact me",
+        "category": "built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS,nodemailer)",
+        "image": "mailsend.png",
+        "url": "https://contactme-app.herokuapp.com/"
+      }
+    ]
+  
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Fantastic work! I am just impressed by your service quality and working strategy.",
+        "user": "Hassan"
+      }
+     
+    ]
+  }
+}
