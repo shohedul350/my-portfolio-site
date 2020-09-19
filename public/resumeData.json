@@ -99,6 +99,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "MERN Stack ERP Solution",
+        "category": "ERP Busness solution demo built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "erp.png",
+        "url": "https://erp-app.herokuapp.com/"
+      },
+      {
         "title": "MERN Stack E-commerce",
         "category": "E-commerce demo built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "e-commerce.png",
