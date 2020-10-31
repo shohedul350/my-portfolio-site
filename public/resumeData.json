@@ -99,6 +99,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Point of sale",
+        "category": "busness solution de built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "pos.png",
+        "url": "http://mern-pos.herokuapp.com/demo-login"
+      },
+      {
         "title": "MERN Stack ERP Solution",
         "category": "ERP Busness solution demo built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "erp.png",
