@@ -100,13 +100,19 @@
     "projects": [
       {
         "title": "Point of sale",
-        "category": "busness solution de built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "category": "business solution  built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "pos.png",
         "url": "http://mern-pos.herokuapp.com/demo-login"
       },
       {
+        "title": "Halal food e-commerce",
+        "category": "Online shop built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "hala-food-homepage.png",
+        "url": "https://halal-food.herokuapp.com/"
+      },
+      {
         "title": "MERN Stack ERP Solution",
-        "category": "ERP Busness solution demo built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "category": "ERP Business solution demo built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "erp.png",
         "url": "https://erp-app.herokuapp.com/"
       },
@@ -139,20 +145,8 @@
         "category": "built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS,socket.io)",
         "image": "chat-app.png",
         "url": "https://chatme-live.herokuapp.com"
-      },
-      {
-        "title": "React Corona tracker",
-        "category": "built with Recat and using api",
-        "image": "corona-tracker.png",
-        "url": "https://corona-tracke.netlify.app/"
       }
-      ,
-      {
-        "title": "contact me",
-        "category": "built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS,nodemailer)",
-        "image": "mailsend.png",
-        "url": "https://contactme-app.herokuapp.com/"
-      }
+  
     ]
   
   },
